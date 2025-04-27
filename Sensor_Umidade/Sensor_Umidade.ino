@@ -13,7 +13,7 @@ void loop() {
     Sendo 1023 seco e 0 muito umido.
     Baseado nesse resultado, criaremos uma lógica para controlar a nossa aplicação.
   */
-  delay(1000);
+  delay(1200);
 }
 
 
