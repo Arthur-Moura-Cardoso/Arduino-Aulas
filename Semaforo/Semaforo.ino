@@ -31,7 +31,7 @@ void loop() {
   delay(2500);
 }
 
-// Arthur Moura 2025
+// Autor: Arthur Moura 2025
 
 /*
   Lista de itens:
